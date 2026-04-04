@@ -3,3 +3,4 @@ This has my assignments and course project.
 Really enjoyed the class content and learning SQL. 
 
 The SQL code is NRSCompanyStudentDatabase.sql 
+If you are coming from my resume the code the NRSCompanyStudentDatabase.sql
